@@ -6,9 +6,15 @@ import Footer from "../components/Footer";
 
 export const metadata = {
 
-  title:"Bandung Café Journal",
+  title: "Bandung Café Journal",
 
-  description:"Comparative Review of Local Cafés in Bandung"
+  description: "Comparative Review of Local Cafés in Bandung",
+
+  icons: {
+
+    icon: "/icon.png",
+
+  },
 
 };
 
